@@ -1,0 +1,2 @@
+# SQLFinalProjesi
+Sigorta Yönetim Sistemi 
